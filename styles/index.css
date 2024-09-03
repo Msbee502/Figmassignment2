@@ -8,9 +8,35 @@
     margin-left: 80px;
  }
 .logo-dot {
-    color: #A3DC00;
+    color: #33A2E0;
  }
-
+ .home {
+   font-family: 'Roboto', sans-serif;
+   font-size: 16px; 
+   font-weight: regular;
+   line-height: 48px;
+   margin-top: 37px;
+   margin-left: 225px;
+ }
+ .button1 {
+   width: 152px;
+   height: 64px;
+   margin-top: 30px;
+   margin-left: 1400px;
+   margin-right: 68px;
+   border: none;
+   background-color: #33A2E0;
+   font-family: 'Roboto', sans-serif;
+   border-radius: 6px;
+   font-style: normal;
+   font-weight: bold;
+   font-size: 16px;
+   line-height: 32px;
+   text-align: center;
+   letter-spacing: 0,02em;
+   color: #FFFFFF;
+   
+}
  section {
     display: inline-block;
  }
@@ -41,13 +67,13 @@
     letter-spacing: 0,02em;
     color: #9A9A9A;
 }
-.button {
+.button2 {
     width: 152px;
     height: 64px;
     margin-top: 60px;
     margin-left: 200px;
     border: none;
-    background-color: #A3DC00;
+    background-color: #33A2E0;
     font-family: 'Roboto', sans-serif;
     border-radius: 6px;
     font-style: normal;
